@@ -1,1 +1,2 @@
-Olá Thiago, é um prazer aprender os comandos de git contigo
+Olá Git, é muito bacana estar aprendendo 
+os seus comandos.
