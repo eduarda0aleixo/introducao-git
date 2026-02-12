@@ -12,6 +12,12 @@ control L = limpa o git
 
 git checkout = mudar de branch
 
-git checkout -b = cria uma nova branch e muda pra ela
+git checkout -b = cria uma nova branch e muda pra ela com o histórico da atual
+Ex: estou na dev, faço esse comando e crio uma “eu”, a branch “eu” terá tudo que a dev tem
 
 git branch = mostra quantas branchs temos
+
+git log = histórico inteiro da pasta (quem fez e quando)
+
+git merge = juntar as branchs 
+
